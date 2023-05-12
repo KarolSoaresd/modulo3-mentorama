@@ -1,0 +1,19 @@
+{
+  "name": "modulo3-mentorama",
+  "version": "1.0.0",
+  "description": "Projeto de automacao do modulo 3 de testes automatizados simples com cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarolSoaresd/modulo3-mentorama.git"
+  },
+  "author": "Karoline Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarolSoaresd/modulo3-mentorama/issues"
+  },
+  "homepage": "https://github.com/KarolSoaresd/modulo3-mentorama#readme"
+}
